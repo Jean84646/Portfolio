@@ -43,6 +43,7 @@ blockquote {
 .ending {
   text-align: right;
   float: right;
+  margin-right: 50px;
 }
 
 .email {
