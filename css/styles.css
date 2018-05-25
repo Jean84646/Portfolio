@@ -1,16 +1,22 @@
 body {
-  background-color: #edf7fc;
+  background-image: url(../img/blue2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
 }
 
 .intro {
-  text-align: center;
+  text-align: left;
   font-family: fantasy;
   padding: 5px 5px 10px 5px;
-  margin:  5px 5px 10px 5px;
+  margin:  10px 10px 10px 10px;
 }
 
 .intro h2 {
-  border-bottom: 5px double grey;
+  font-weight: bold;
+  border-bottom: 5px double #2b91c4;
+  padding-left: 100px
 }
 
 img {
@@ -30,6 +36,7 @@ ul li {
 }
 
 blockquote {
+  color: #2682af;
   text-align: right;
 }
 
