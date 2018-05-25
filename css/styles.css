@@ -1,0 +1,25 @@
+.intro {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.intro h2 {
+  border-bottom: 2px solid black;
+}
+
+img {
+  width: 200px;
+}
+
+ul li {
+  list-style-type: none;
+  margin-left: -15px;
+}
+
+blockquote {
+  text-align: right;
+}
+
+.ending {
+  text-align: center;
+}
