@@ -20,6 +20,10 @@ img {
   margin: 5px;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 ul li {
   list-style-type: none;
   margin-left: -15px;
