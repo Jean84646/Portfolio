@@ -53,15 +53,23 @@ ul li {
   text-align: right;
   font-style: italic;
   width: 60%;
+  margin-top: 50px;
   float: right;
-}
-
-.ending {
-  text-align: right;
-  margin-right: 30px;
+  display: block;
 }
 
 .email {
   font-style: italic;
   text-decoration: underline;
+}
+
+#link-tags {
+  text-align: right;
+  float: right;
+  width: 60%;
+}
+
+#link-tags a {
+  font-size: 25px;
+  margin-left: 20px;
 }
